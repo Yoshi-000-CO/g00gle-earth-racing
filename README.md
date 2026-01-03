@@ -57,6 +57,33 @@ Contact
 -------
 Project lead / contact: @Yoshi-000-CO
 
+
+
+## 🌏 Join the Movement: Wanted List
+
+GER is not a company. It is a high-speed hack of reality. We are seeking "Visionary Vandals" to fill the following roles:
+
+### **1. AI Movie Creators / Visual Hackers**
+
+* **Mission:** Visualize the "Singularity" where Google Earth mutates into a racing circuit.
+* **Objective:** Produce a 60-second concept trailer that makes the world (and Google) lose its mind.
+* **Freedom:** Tool-agnostic. Use Runway, Pika, Sora, or Unreal Engine. If it looks like a "World-Scale Hack," it’s in.
+
+### **2. Community Architect / Transitional PM**
+
+* **Mission:** Design the "Self-Operating System" of this movement.
+* **Objective:** Bridge the gap between human creativity and AI-driven coordination.
+* **Strategy:** You are the "Human Hub." You don't just manage people; you architect the workflows that AI will eventually inherit. You are building the governance for an autonomous movement.
+
+### **3. Sound Designers / Composers**
+
+* **Mission:** Score the sound of "System Infiltration."
+* **Objective:** Create the auditory experience—from the glitchy hum of data ingestion to the high-octane beats of a global race.
+* **Freedom:** Mix digital noise with cinematic energy. Make us feel the speed of data.
+
+---
+
+
 Acknowledgements
 ----------------
 Inspired by the idea of turning the planet into a creative, shared playground. This manifesto is a starting point — we'll refine the technical, legal, and community aspects together.
