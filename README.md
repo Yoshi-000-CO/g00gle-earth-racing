@@ -57,8 +57,6 @@ Contact
 -------
 Project lead / contact: @Yoshi-000-CO
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_rus1vnrus1vnrus1" src="https://github.com/user-attachments/assets/94db5a10-3389-4ab5-b6e3-11b391f349a8" />
-
 <img width="1408" height="768" alt="Gemini_Generated_Image_kyfvcqkyfvcqkyfv" src="https://github.com/user-attachments/assets/8f48d04f-c5a4-4955-bf18-b58a2c6fac8e" />
 
 ## 🌏 Join the Movement: Wanted List
